@@ -316,4 +316,11 @@ $ cd lua-5.3.4
 $ make linux test
 $ sudo make install
 -*-------*---------------*-----------------------*------------------*------------------------*--------------------------
+安装valgrand
 
+1.下载安装valgrand
+
+2../configure --prefix=/usr/local/valgrind
+
+3.make
+4.sudo make install
