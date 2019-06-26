@@ -329,3 +329,4 @@ https://github.com/yogykwan/design-patterns-cpp  大话设计模式C++实现
 https://github.com/threerocks/studyFiles/blob/master/%E7%AE%97%E6%B3%95/%E5%A4%A7%E8%AF%9D%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.pdf
 
 https://github.com/W2B1/book 电子书籍库
+https://github.com/royeo/awesome-programming-books 书籍库2
